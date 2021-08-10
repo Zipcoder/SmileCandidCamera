@@ -10,3 +10,5 @@ Record a video.
 
 Post the URL to the video on Slack; we'll have a "movie night in the afternoon", and watch them all together. 
 Bring your favorite movie snack.
+
+YouTube would be good for posting your video, others are fine too.
